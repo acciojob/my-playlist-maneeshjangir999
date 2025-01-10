@@ -44,3 +44,8 @@ video{
 	margin-left:10px;
 	margin-bottom:10px;
 }
+.player_one .player_two{
+	background-color:white;
+	border-radius:5px;
+	padding:0 0;
+}
